@@ -1,0 +1,37 @@
+.titulo {
+    text-align: center;
+    background-color: lightskyblue;
+    margin: 20px 150px 20px 150px
+}
+
+.objetivos {
+    text-align: center;
+    margin: 20px 26.33cm 20px 50px;
+    padding: 2px 2px 2px 2px;
+    border: 2px solid;
+    border-color: lightskyblue;
+}
+
+.organizacion {
+    text-align: center;
+    margin: 20px 26.33cm 20px 50px;
+    padding: 2px 2px 2px 2px;
+    border: 2px solid;
+    border-color: lightskyblue;
+}
+
+.titulo-de-tabla {
+    text-align: center;
+    margin: 20px 26cm 20px 50px;
+    padding: 2px 2px 2px 2px;
+    border: 2px solid;
+    border-color: lightskyblue;
+}
+
+.tabla {
+    text-align: center;
+    margin: 20px 20cm 20px 50px;
+    padding: 2px 2px 2px 2px;
+    border: 2px solid;
+    border-color: black;
+}
